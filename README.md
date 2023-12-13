@@ -1,0 +1,1 @@
+This python code, is capable of simulating the solution to the two and three body Gravitational motions problem. It uses Adaptive stepsize Runge-Kutta 45 ODE solver to calculated updated position and velocity information.
